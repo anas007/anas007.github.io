@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Food Sceince and Nutrition, Wayamba University of Sri lanka, 2006
+* M.Sc. in Biostatistics, University of Peradeniya, Sri lanka, 2009
+* M.Sc. in Biology, University of Regina, Sri Canada, 2012
+* Ph.D in in Biology, University of Regina, Sri Canada, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Aquatic Science Biologist
+  * Fisheries and Oceans Canada (DFO)
+  * Duties included: Perform data analysis
+  * Supervisor: Andrew Drake and Todd Morris
 
 * Fall 2015: Research Assistant
   * Github University
