@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## My Research
+My Research
+======
 
 A data-driven personal website
 ======
