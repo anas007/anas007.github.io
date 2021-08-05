@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+My research
+===========
+
 My Research
 ======
 
